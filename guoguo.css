@@ -1,0 +1,813 @@
+BODY {CURSOR: url('http://webme.bokee.com/inc/mouse021.ani');
+ BACKGROUND: #FFFFFF repeat-x; COLOR: #fff
+}
+.stage {
+ BACKGROUND-COLOR: #FFFFFF
+}
+.stage #layout TD {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 0px
+}
+A {
+ COLOR: #39c
+}
+A:link {
+ COLOR: #39c
+}
+A:visited {
+ COLOR: #39c
+}
+A:hover {
+ COLOR: #3ff
+}
+.stage {
+ BACKGROUND: #FFFFFF
+}
+#header{height:205px;background:#FFF url(http://hiphotos.baidu.com/ffzxd/pic/item/9259a9ece9aa2d2463d09f27.jpg) no-repeat top right}
+}
+#header DIV.lc {
+ 
+}
+#header DIV.rc {
+ 
+}
+#header DIV.tit {
+ FONT-WEIGHT: bold; FONT-SIZE: 40px; LEFT: 66px; LINE-HEIGHT: 55px; FONT-FAMILY: 楷体_GB2312; TOP: 36px
+}
+
+#header DIV.tit A.titlink:visited {
+ COLOR: #FFFF77; FILTER: glow(color#F8A52A,strength=3); HEIGHT: 12px; TEXT-DECORATION: none
+}
+#header DIV.desc {
+ FONT-SIZE: 18px; LEFT: 20px; COLOR: #33FF00; LINE-HEIGHT: 180px; FONT-FAMILY: 楷体_GB2312; TOP: 50px
+}
+#tabline {
+ DISPLAY: none
+}
+#tab {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/2205b81fc49ffd0f314e15e3.jpg) no-repeat right top; PADDING-BOTTOM: 5px; PADDING-TOP: 5px; TOP: 168px; TEXT-ALIGN: center
+}
+#tab SPAN {
+ DISPLAY: none
+}
+#m_links DIV.item {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/77c9043411a15a4b241f14e3.jpg) no-repeat; TEXT-INDENT: 2px; LINE-HEIGHT: 14px
+}
+#m_links DIV.line {
+ MARGIN-TOP: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 12px
+}
+#tab A {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/424394431087bb1672f05dcc.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: yellow; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A:link {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/424394431087bb1672f05dcc.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: yellow; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A:visited {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/424394431087bb1672f05dcc.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: yellow; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A:hover {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/11860ac282ceef30e4dd3bec.jpg) no-repeat center 50%; LEFT: 1px; POSITION: relative; TOP: 1px
+}
+#tab A.on {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/c5149062dd998fd8e6113aec.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: white; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A.on:link {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/c5149062dd998fd8e6113aec.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: white; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A.on:visited {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/c5149062dd998fd8e6113aec.jpg) no-repeat center 50%; WIDTH: 80px; COLOR: white; PADDING-TOP: 5px; TEXT-ALIGN: center; TEXT-DECORATION: none
+}
+#tab A.on:hover {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/11860ac282ceef30e4dd3bec.jpg) no-repeat center 50%; LEFT: 1px; POSITION: relative; TOP: 1px
+}
+#tab2 {
+ 
+}
+#tab2 SPAN {
+ FONT-WEIGHT: bold; FONT-SIZE: 12px
+}
+#tab2 A {
+ FONT-SIZE: 12px; COLOR: #39c
+}
+A.modtit:visited {
+ COLOR: #39c
+}
+#tab2 A:hover {
+ COLOR: #3ff
+}
+#page {
+ FONT-SIZE: 14px; FONT-FAMILY: Arial; HEIGHT: 30px; TEXT-ALIGN: center
+}
+#page SPAN {
+ PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; COLOR: #FFFFFF; PADDING-TOP: 3px
+}
+#page A.pc {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #3399cc
+}
+#page A.pc:hover {
+ COLOR: #33ffff
+}
+#page A.pi {
+ PADDING-RIGHT: 3px; PADDING-LEFT: 3px; FONT-SIZE: 14px; PADDING-BOTTOM: 3px; COLOR: #3399cc; PADDING-TOP: 3px
+}
+#page A.pi:hover {
+ COLOR: #33ffff
+}
+.mod {
+ MARGIN-BOTTOM: 10px
+}
+.modhandle {
+ CURSOR: move
+}
+.modth {
+ HEIGHT: 24px
+}
+.modhead {
+ PADDING-RIGHT: 4px; PADDING-LEFT: 4px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px
+}
+.modopt {
+ PADDING-RIGHT: 4px; PADDING-LEFT: 0px; PADDING-BOTTOM: 0px; PADDING-TOP: 4px
+}
+.modtit {
+ FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff
+}
+A.modtit {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modtit:visited {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modtit:hover {
+ COLOR: #ccc; TEXT-DECORATION: underline
+}
+.modtitlink {
+ FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #ffffff
+}
+A.modtitlink {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modtitlink:visited {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modtitlink:hover {
+ COLOR: #ccc; TEXT-DECORATION: underline
+}
+.modact {
+ FONT-SIZE: 12px; COLOR: #ffffff
+}
+A.modact {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modact:visited {
+ COLOR: #fff; TEXT-DECORATION: none
+}
+A.modact:hover {
+ COLOR: #ccc; TEXT-DECORATION: underline
+}
+.modbox {
+ BORDER-RIGHT: #666 1px solid; PADDING-RIGHT: 10px; BORDER-TOP: #666 0px solid; PADDING-LEFT: 10px; PADDING-BOTTOM: 0px; BORDER-LEFT: #666 1px solid; PADDING-TOP: 10px; BORDER-BOTTOM: #666 0px solid; BACKGROUND-COLOR: #FFF
+}
+.modtl {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/affb912a0c995e9e023bf6ed.jpg) no-repeat left top; LINE-HEIGHT: 1px
+}
+.modtc {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/a2e2719b259631b0c8eaf4ed.jpg) repeat-x
+}
+.modtr {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/89ed1eb5e1477fcb37d3caed.jpg) no-repeat right top; LINE-HEIGHT: 1px
+}
+.modbl {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/571214da2b6653deb7fd48ed.jpg) no-repeat left top; LINE-HEIGHT: 1px
+}
+.modbc {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/db0cc4cb9276dcf853664fed.jpg) repeat-x
+}
+.modbr {
+ BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/0b1d7cdb1a503863d1164eed.jpg) no-repeat right top; LINE-HEIGHT: 1px
+}
+.modlabel {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; COLOR: #fff
+}
+#m_blog DIV.tit {
+ FONT-WEIGHT: bold; FONT-SIZE: 16px
+}
+#m_blog DIV.tit A {
+ FONT-WEIGHT: bold; COLOR: #C255DD
+}
+#m_blog DIV.tit A:hover {
+ COLOR:  #ff0
+}
+#m_blog DIV.date {
+ MARGIN: 5px 0px 8px; COLOR: #666
+}
+#m_blog DIV.cnt {
+ FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 20px
+}
+#m_blog DIV.cnt DIV {
+ FONT-SIZE: 14px
+}
+#m_blog DIV.more {
+ MARGIN: 14px 0px 16px
+}
+#m_blog DIV.more A {
+ FONT-SIZE: 14px; COLOR: #3399cc
+}
+#m_blog DIV.more A:hover {
+ COLOR: #33ffff
+}
+#m_blog DIV.opt {
+ FONT-SIZE: 12px; COLOR: #666666
+}
+#m_blog DIV.opt A {
+ FONT-SIZE: 12px; COLOR: #f90; TEXT-DECORATION: none
+}
+#m_blog DIV.opt A:hover {
+ COLOR: #fc0; TEXT-DECORATION: underline
+}
+#m_blog DIV.line {
+ BORDER-TOP: #666666 1px solid; MARGIN-TOP: 17px; LINE-HEIGHT: 17px
+}
+#m_blog DIV.none {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 100px; COLOR: #333333; PADDING-TOP: 100px
+}
+#m_pro A {
+ COLOR: #39c
+}
+#m_pro A:hover {
+ COLOR: #3ff
+}
+#m_pro DIV.image {
+ TEXT-ALIGN: center
+}
+#m_pro DIV.act {
+ MARGIN-TOP: 10px
+}
+#m_pro DIV.user {
+ MARGIN-TOP: 10px; FONT-WEIGHT: bold; FONT-SIZE: 12px;COLOR: #FF1111}
+#m_pro DIV.desc {
+ FONT-SIZE: 12px; COLOR: #F3D250
+}
+#m_pro DIV.line {
+ BORDER-TOP: #d2e9f4 1px solid; MARGIN-TOP: 17px; LINE-HEIGHT: 17px
+}
+#m_pro TD {
+ FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 24px
+}
+#m_pro .photo {
+ BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; BACKGROUND: #fff; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid
+}
+#m_pro .photo TD {
+ FONT-SIZE: 12px
+}
+#m_pro .photo .image {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; PADDING-BOTTOM: 10px; PADDING-TOP: 20px
+}
+#m_pro .photo .line {
+ BORDER-TOP: #ddd 1px dashed; FONT-SIZE: 1px; WIDTH: 90%; LINE-HEIGHT: 0
+}
+#m_pro .ref {
+ BORDER-RIGHT: #ddd 1px solid; BORDER-TOP: #ddd 1px solid; MARGIN-TOP: 10px; BORDER-LEFT: #ddd 1px solid; BORDER-BOTTOM: #ddd 1px solid
+}
+#m_pro .ref .tit {
+ PADDING-LEFT: 10px; BACKGROUND: #eee; BORDER-BOTTOM: #ddd 1px solid
+}
+#m_pro .ref .cnt {
+ PADDING-RIGHT: 10px; PADDING-LEFT: 10px; BACKGROUND: #fff; PADDING-BOTTOM: 10px; PADDING-TOP: 10px
+}
+#m_pro .basic TD {
+ FONT-SIZE: 14px; COLOR: #fff
+}
+#m_pro .basic .tit {
+ FONT-WEIGHT: bold
+}
+#m_pro .pline {
+ BORDER-TOP: #a6a6a6 1px dashed; MARGIN-TOP: 10px; MARGIN-LEFT: 5px; LINE-HEIGHT: 10px
+}
+#m_pro .pitem {
+ FONT-SIZE: 14px; MARGIN-LEFT: 5px; LINE-HEIGHT: 22px
+}
+#m_pro .pitem .tit {
+ COLOR: #fff
+}
+#mod_album A {
+ COLOR: #39c
+}
+#mod_album A:hover {
+ COLOR: #3ff
+}
+#m_album DIV.image {
+ TEXT-ALIGN: center
+}
+#m_album DIV.size {
+ TEXT-ALIGN: center
+}
+#m_album DIV.page {
+ FONT-SIZE: 12px; COLOR: #666666; TEXT-ALIGN: center
+}
+#m_album DIV.page A {
+ FONT-SIZE: 12px; COLOR: #39c
+}
+#m_album DIV.page A:hover {
+ COLOR: #3ff
+}
+#m_album .phpage {
+ MARGIN-TOP: 10px; PADDING-BOTTOM: 5px; TEXT-ALIGN: center
+}
+#m_links DIV.item {
+ FONT-SIZE: 12px
+}
+#m_links DIV.item A {
+ COLOR: #39c
+}
+#m_links DIV.item A:hover {
+ COLOR: #3ff
+}
+#m_links DIV.line {
+ BORDER-TOP: #666666 1px solid; MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#mod_track A {
+ COLOR: #39c
+}
+#mod_track A:hover {
+ COLOR: #3ff
+}
+#m_track A IMG {
+ BORDER-RIGHT: #ffffff thin solid; BORDER-TOP: #ffffff thin solid; FILTER: alpha(opacity=70); BORDER-LEFT: #ffffff thin solid; BORDER-BOTTOM: #ffffff thin solid
+}
+#m_track A:hover IMG {
+ FILTER: alpha(opacity=100)
+}
+#comm_info {
+ FONT-FAMILY: Arial; TEXT-ALIGN: left
+}
+#comm_info DIV.line {
+ BORDER-TOP: #666666 1px solid; MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#comm_info A {
+ COLOR: #39c
+}
+#comm_info A:hover {
+ COLOR: #3ff
+}
+.modbox#m_mylink1 {
+ BORDER-TOP: 0px
+}
+.modtl#m_mylink1 {
+ BACKGROUND: #01282a
+}
+#mod_links .modtc {
+ BACKGROUND: #01282a
+}
+#m_mylink1 .modtr {
+ BACKGROUND: #01282a
+}
+#m_mylink1 .modbox {
+ 
+}
+#m_mylink1 {
+ MARGIN-LEFT: 2px! important; WIDTH: auto! important
+}
+#m_mylink1 A:hover {
+ FONT-WEIGHT: bold
+}
+#m_mylink1 DIV {
+ FLOAT: left! important; HEIGHT: 33px! important; TEXT-ALIGN: center! important
+}
+#m_mylink1 DIV.item {
+ FONT-SIZE: 12px; COLOR: #ddd
+}
+#m_mylink1 DIV.item A {
+ BORDER-RIGHT: 2px groove; BORDER-TOP: 2px groove; DISPLAY: block! important; FONT-SIZE: 12px; BORDER-LEFT: 2px groove; WIDTH: 130px! important; COLOR: #f5b7fd; BORDER-BOTTOM: 2px groove; TEXT-DECORATION: none
+}
+#m_links DIV.item A:visited {
+ COLOR: #ffffff
+}
+.modbox#m_mylink2 {
+ BORDER-TOP: 0px
+}
+#m_mylink2 {
+ PADDING-LEFT: 10px; WIDTH: auto! important
+}
+#m_mylink2 A:hover {
+ FONT-WEIGHT: bold
+}
+#m_mylink2 DIV {
+ FLOAT: left! important; COLOR: #01282a; HEIGHT: 33px! important; TEXT-ALIGN: center! important
+}
+#m_mylink2 DIV.item {
+ FONT-SIZE: 12px; COLOR: #ddd
+}
+#m_mylink2 DIV.item A {
+ BORDER-RIGHT: 2px groove; BORDER-TOP: 2px groove; DISPLAY: block! important; FONT-SIZE: 11px; BORDER-LEFT: 2px groove; WIDTH: 99px! important; COLOR: #ffffff; BORDER-BOTTOM: 2px groove; TEXT-DECORATION: none
+}
+#m_mylink2 DIV.item A:visited {
+ COLOR: #00ccff
+}
+.modbox#m_mylink3 {
+ BORDER-TOP: 0px
+}
+#m_mylink3 {
+ PADDING-LEFT: 10px; WIDTH: auto! important
+}
+#m_mylink3 A:hover {
+ FONT-WEIGHT: bold
+}
+#m_mylink3 DIV {
+ FLOAT: left! important; COLOR: #01282a; HEIGHT: 100px! important; TEXT-ALIGN: center! important
+}
+#m_mylink3 DIV.item {
+ FONT-SIZE: 12px; COLOR: #ddd
+}
+#m_mylink3 DIV.item A {
+ BORDER-RIGHT: 2px groove; BORDER-TOP: 2px groove; DISPLAY: block! important; FONT-SIZE: 12px; BORDER-LEFT: 2px groove; WIDTH: 18px! important; COLOR: #ffff00; BORDER-BOTTOM: 2px groove; TEXT-DECORATION: none
+}
+#m_mylink3 DIV.item A:visited {
+ COLOR: #006600
+}
+.modbox#m_mylink4 {
+ BORDER-TOP: 0px
+}
+.modtl#m_mylink4 {
+ BACKGROUND: #01282a
+}
+#mod_links .modtc {
+ BACKGROUND: #01282a
+}
+#m_mylink4 .modtr {
+ BACKGROUND: #01282a
+}
+#m_mylink4 .modbox {
+ 
+}
+#m_mylink4 {
+ MARGIN-LEFT: -8px! important; WIDTH: auto! important
+}
+#m_mylink4 A:hover {
+ FONT-WEIGHT: bold
+}
+#m_mylink4 DIV {
+ FLOAT: left! important; HEIGHT: 33px! important; TEXT-ALIGN: center! important
+}
+#m_mylink4 DIV.item {
+ FONT-SIZE: 12px; COLOR: #ddd
+}
+#m_mylink4 DIV.item A {
+ BORDER-RIGHT: 2px groove; BORDER-TOP: 2px groove; DISPLAY: block! important; FONT-SIZE: 11px; BORDER-LEFT: 2px groove; WIDTH: 80px! important; COLOR: #ff0000; BORDER-BOTTOM: 2px groove; TEXT-DECORATION: none
+}
+#m_links DIV.item A:visited {
+ COLOR: #006600
+}
+#m_artclg DIV.item {
+ FONT-SIZE: 14px; COLOR: #999999
+}
+#m_artclg DIV.item A {
+ FONT-SIZE: 14px; COLOR: #3399cc
+}
+#m_artclg DIV.item A:hover {
+ COLOR: #33ffff
+}
+#m_artclg DIV.line {
+ MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#m_filed DIV.item {
+ FONT-SIZE: 12px; COLOR: #666666
+}
+#m_filed DIV.item A {
+ FONT-SIZE: 12px; COLOR: #3399cc
+}
+#m_filed DIV.item A:hover {
+ COLOR: #33ffff
+}
+#m_filed DIV.line {
+ MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#m_comment DIV.item {
+ FONT-SIZE: 12px; COLOR: #fff
+}
+#m_comment DIV.item A {
+ FONT-SIZE: 12px; COLOR: #3399cc
+}
+#m_comment DIV.item A:hover {
+ COLOR: #33ffff
+}
+#m_comment DIV.item A.cnt {
+ FONT-SIZE: 12px; COLOR: #ccc; TEXT-DECORATION: none
+}
+#m_comment DIV.item A.cnt:hover {
+ COLOR: #fff; TEXT-DECORATION: underline
+}
+#m_comment DIV.line {
+ BORDER-TOP: #666666 1px solid; MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#m_albumlist DIV.note {
+ FONT-SIZE: 14px; COLOR: #333333
+}
+#m_albumlist DIV.desc {
+ PADDING-RIGHT: 10px; PADDING-LEFT: 10px; FONT-SIZE: 14px; MARGIN-BOTTOM: 12px; PADDING-BOTTOM: 3px; LINE-HEIGHT: 22px; PADDING-TOP: 3px; BACKGROUND-COLOR: #333333
+}
+#m_albumlist DIV.none {
+ PADDING-RIGHT: 0px; PADDING-LEFT: 0px; FONT-SIZE: 14px; PADDING-BOTTOM: 100px; COLOR: #333333; PADDING-TOP: 100px
+}
+#m_albumlist DIV.line {
+ BORDER-TOP: #d2e9f4 1px solid; MARGIN-TOP: 10px; LINE-HEIGHT: 16px
+}
+#m_albumlist DIV.tit {
+ FONT-SIZE: 14px; MARGIN: 6px 0px 7px
+}
+#m_albumlist DIV.tit A {
+ FONT-SIZE: 14px; COLOR: #3399cc
+}
+#m_albumlist DIV.tit A:hover {
+ COLOR: #33ffff
+}
+#m_albumlist SPAN.count {
+ FONT-WEIGHT: bold; FONT-SIZE: 12px; COLOR: #999
+}
+#m_albumlist SPAN.size {
+ FONT-SIZE: 12px; COLOR: #666; FONT-FAMILY: Arial
+}
+#m_albumlist A.act {
+ FONT-SIZE: 12px; COLOR: #3399cc
+}
+#m_albumlist A.act:hover {
+ COLOR: #33ffff
+}
+#m_albumlist A.page {
+ FONT-SIZE: 14px; COLOR: #3399cc
+}
+#m_albumlist A.page:visited {
+ COLOR: #3399cc
+}
+#m_albumlist A.page:hover {
+ COLOR: #33ffff
+}
+#m_albumlist TD.image {
+ BORDER-RIGHT: #999999 1px solid; PADDING-RIGHT: 5px; BORDER-TOP: #999999 1px solid; PADDING-LEFT: 5px; BACKGROUND: #ffffff; PADDING-BOTTOM: 5px; BORDER-LEFT: #999999 1px solid; PADDING-TOP: 5px; BORDER-BOTTOM: #999999 1px solid
+}
+#m_albumlist .phbox {
+ MARGIN-TOP: 15px; MARGIN-LEFT: 15px; TEXT-ALIGN: center
+}
+#m_albumlist .phbox .phpage {
+ FONT-SIZE: 14px; COLOR: #636363
+}
+#m_albumlist .phbox .phinfo {
+ FONT-SIZE: 12px; MARGIN: 6px 0px 2px; COLOR: #636363
+}
+#m_albumlist .phbox .phimg {
+ MARGIN-BOTTOM: 10px
+}
+#m_friend DIV.filter {
+ PADDING-LEFT: 10px; MARGIN-BOTTOM: 10px; LINE-HEIGHT: 27px; PADDING-TOP: 10px; HEIGHT: 27px
+}
+#m_friend DIV.catalog {
+ PADDING-LEFT: 10px; FONT-SIZE: 14px; MARGIN-BOTTOM: 10px; LINE-HEIGHT: 27px; HEIGHT: 27px; BACKGROUND-COLOR: #f2f2f2
+}
+#m_friend DIV.user {
+ MARGIN-TOP: 4px; FONT-SIZE: 12px; COLOR: #333333
+}
+#m_friend DIV.user A {
+ FONT-SIZE: 12px; COLOR: #3399cc
+}
+#m_friend DIV.user A:hover {
+ COLOR: #33ffff
+}
+#m_friend DIV.line {
+ BORDER-TOP: #d2e9f4 1px solid; MARGIN-TOP: 10px; LINE-HEIGHT: 16px
+}
+#m_setting A {
+ COLOR: #3399cc
+}
+#m_setting A:hover {
+ COLOR: #33ffff
+}
+#m_setting {
+ FONT-SIZE: 14px; COLOR: #fff; LINE-HEIGHT: 22px
+}
+#m_setting IMG.sel {
+ BORDER-RIGHT: #ffdb7b 4px solid; BORDER-TOP: #ffdb7b 4px solid; BORDER-LEFT: #ffdb7b 4px solid; BORDER-BOTTOM: #ffdb7b 4px solid
+}
+#m_setting IMG.unsel {
+ BORDER-RIGHT: #d2d2d2 1px solid; BORDER-TOP: #d2d2d2 1px solid; BORDER-LEFT: #d2d2d2 1px solid; BORDER-BOTTOM: #d2d2d2 1px solid
+}
+#m_setting SPAN.tit {
+ FONT-SIZE: 14px
+}
+#m_setting SPAN.usr {
+ COLOR: #fff
+}
+#m_setting DIV.sel {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; PADDING-TOP: 6px
+}
+#m_setting DIV.line {
+ BORDER-TOP: #d2e9f4 1px solid; MARGIN-TOP: 20px; LINE-HEIGHT: 16px
+}
+#m_sysinfo A {
+ COLOR: #3399cc
+}
+#m_sysinfo A:hover {
+ COLOR: #33ffff
+}
+#m_sysinfo {
+ FONT-SIZE: 14px; COLOR: #cccccc; LINE-HEIGHT: 22px
+}
+#m_sysinfo SPAN.new {
+ FONT-SIZE: 10px; COLOR: #ff0000; FONT-FAMILY: Arial
+}
+#m_sysinfo SPAN.date {
+ FONT-SIZE: 14px; COLOR: #FFF
+}
+#set_cs {
+ FONT-SIZE: 14px; COLOR: #FFF; LINE-HEIGHT: 22px
+}
+#set_cs TD {
+ COLOR: #FFF
+}
+#m_setbase {
+ FONT-SIZE: 14px; COLOR: #fff
+}
+#m_setbase TD {
+ FONT-SIZE: 14px; COLOR: #fff
+}
+#m_setbase DIV.line {
+ BORDER-TOP: #d2e9f4 1px solid; MARGIN-TOP: 5px; LINE-HEIGHT: 8px
+}
+#in_comment {
+ BORDER-RIGHT: #FFFFFF 1px dotted; BORDER-TOP: #FFFFFF 1px dotted; BORDER-LEFT: #FFFFFF 1px dotted; BORDER-BOTTOM: #FFFFFF 1px dotted
+}
+#in_comment {
+ WIDTH: 710px
+}
+#in_comment DIV.tit {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN-BOTTOM: 12px; COLOR: #333333
+}
+#in_comment DIV.user {
+ FONT-SIZE: 12px; MARGIN-BOTTOM: 6px; COLOR: #333333
+}
+#in_comment DIV.user A {
+ FONT-SIZE: 12px; COLOR: #3399cc
+}
+#in_comment DIV.user A:visited {
+ COLOR: #3399cc
+}
+#in_comment DIV.user SPAN.date {
+ FONT-SIZE: 12px; COLOR: #666666
+}
+#in_comment DIV.desc {
+ FONT-SIZE: 12px; COLOR: #ffffff
+}
+#in_comment DIV.line {
+ BORDER-TOP: #FFFFFF 1px dotted; MARGIN-TOP: 17px; LINE-HEIGHT: 17px
+}
+#in_send DIV.tit {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 10px 0px; COLOR: #333333
+}
+#spBlogCmtText {
+ BORDER-RIGHT: #1ae61a 2px solid; BORDER-TOP: #1ae61a 2px solid; BACKGROUND: #FFFFFF fixed no-repeat center top; BORDER-LEFT: #1ae61a 2px solid; CURSOR: url('http://webme.bokee.com/inc/mouse018.ani'); COLOR: #ffffff; BORDER-BOTTOM: #1ae61a 2px solid
+}
+#in_send DIV.tit {
+ FONT-WEIGHT: bold; FONT-SIZE: 14px; MARGIN: 10px 0px; COLOR: #ffffff
+}
+#phx {
+ FILTER: Alpha(Opacity=100, FinishOpacity=10, Style=2, StartX=20, StartY=40, FinishX=0, FinishY=0)gray(); WIDTH: 220px; HEIGHT: 32px
+}
+#comm_info DIV.line {
+ BORDER-TOP: #ff3333 2px solid; MARGIN-TOP: 4px; BACKGROUND: #FFFFFF no-repeat 50% bottom; MARGIN-BOTTOM: 10px; PADDING-BOTTOM: 32px; LINE-HEIGHT: 8px
+}
+#comm_info div.line{background:url(http://hi.51try.net/code.asp?url=http://hi.baidu.com/guoguo6688) no-repeat top;height:130px;padding-bottom:40px}
+#m_blog DIV.more A {
+ BORDER-RIGHT: 0px; PADDING-RIGHT: 0px; BORDER-TOP: 0px; PADDING-LEFT: 20px; FONT-SIZE: 14px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/32d83eec05495cd42e2e21ee.jpg) no-repeat 0px 0px; PADDING-BOTTOM: 50px; MARGIN: 0px; BORDER-LEFT: 0px; COLOR: #22ff22; PADDING-TOP: 4px; BORDER-BOTTOM: 0px; TEXT-ALIGN: left
+}
+#m_pro DIV.act {
+ MARGIN-TOP: 5px; BACKGROUND: #FFFFFF
+}
+#m_mylink1 DIV.item {
+ FONT-SIZE: 10px;BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/f13a11e7647f452bb83820ee.jpg) no-repeat; TEXT-INDENT: 26px; LINE-HEIGHT: 16px
+}
+#m_mylink1 DIV.line {
+ MARGIN-TOP: -7px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 12px
+}
+#m_mylink2 DIV.item {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/de3173d17c80d33d9a5027ee.jpg) no-repeat; TEXT-INDENT: 26px; LINE-HEIGHT: 14px
+}
+#m_mylink2 DIV.line {
+ MARGIN-TOP: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 12px
+}
+#m_artclg DIV.item {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/39cac2014425edd3267fb5ef.jpg) no-repeat; COLOR: #ffffff; TEXT-INDENT: 20px; LINE-HEIGHT: 14px
+}
+/*
+#m_artclg DIV.line {
+ MARGIN-TOP: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 12px
+}
+*/
+#m_filed DIV.item {
+ FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/0dd7e48b61784d7a9f2fb4ef.jpg) no-repeat; COLOR: #ffffff; TEXT-INDENT: 20px; LINE-HEIGHT: 18px
+}
+#m_filed DIV.line {
+ MARGIN-TOP: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 12px
+}
+#m_comment DIV.item {
+ PADDING-RIGHT: 5px; PADDING-LEFT: 5px; FONT-SIZE: 12px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/0d00627f76816d0d29388aef.jpg) no-repeat; PADDING-BOTTOM: 5px; COLOR: #fff; TEXT-INDENT: 20px; LINE-HEIGHT: 16px; PADDING-TOP: 5px
+}
+#m_comment DIV.line {
+ MARGIN-TOP: 0px; BACKGROUND: url(http://hiphotos.baidu.com/fard/pic/item/33eede50196ebf67843524ec.jpg); LINE-HEIGHT: 10px
+}
+
+<script language=" Java Script">
+<!--
+function statusMessageObject(p,d) {
+this.msg = MESSAGE
+this.out = " "
+this.pos = POSITION
+this.delay = DELAY
+this.i = 0
+this.reset = clearMessage
+}
+function clearMessage() {
+this.pos = POSITION
+}
+var POSITION = 100
+var DELAY = 5
+var MESSAGE = "欢迎光临! Welcome to WWW.daobaoku.com "
+var scroll = new statusMessageObject()
+function scroller() {
+for (scroll.i = 0; scroll.i < scroll.pos; scroll.i++) {
+scroll.out += " "
+}
+if (scroll.pos >= 0)
+scroll.out += scroll.msg
+else scroll.out = scroll.msg.substring(-scroll.pos,scroll.msg.length)
+window.status = scroll.out
+scroll.out = " "
+scroll.pos--
+if (scroll.pos < -(scroll.msg.length)) {
+scroll.reset()
+}
+setTimeout ('scroller()',scroll.delay)
+}
+function snapIn(jumpSpaces,position) {
+var msg = scroll.msg
+var out = ""
+for (var i=0; i<position; i++)
+{out += msg.charAt(i)}
+for (i=1;i<jumpSpaces;i++)
+{out += " "}
+out += msg.charAt(position)
+window.status = out
+if (jumpSpaces <= 1) {
+position++
+if (msg.charAt(position) == ' ')
+{position++ }
+jumpSpaces = 100-position
+} else if (jumpSpaces > 3)
+{jumpSpaces *= .75}
+else
+{jumpSpaces--}
+if (position != msg.length) {
+var cmd = "snapIn(" + jumpSpaces + "," + position + ")";
+scrollID = window.setTimeout(cmd,scroll.delay);
+} else {
+window.status=""
+jumpSpaces=0
+position=0
+cmd = "snapIn(" + jumpSpaces + "," + position + ")";
+scrollID = window.setTimeout(cmd,scroll.delay);
+return false
+}
+return true
+}
+snapIn(100,0);
+// -->
+</script>
+*日历模块*/
+div#cals{background:none;border:none;text-align:center;width:70%;padding:2px}/*日历主体背景,边框*/
+div#cals .cal_body,#cals .cal_mth{font-family:Arial;font-size:12px;width:100%;}/*除年月控制器外的日期部分,包括周和一般日期*/
+div#cals .cal_yr table{width:30px}/*年,月表格*/
+div#cals .cal_yr td{font-size:12px;color:#EE5F00;background:none;padding:1px;white-space:nowrap;line-height:15px;text-align:center}/*年,月单元格*/
+div#cals .cal_yr .cal_pre{font-size:8px;background:      no-repeat center center;padding-left:10px}/*上一月箭头(正常)*/
+div#cals .cal_yr .cal_nxt{font-size:8px;background:      no-repeat center center;padding-left:10px}/*下一月箭头(正常)*/
+div#cals .cal_yr .cal_pre_ovr{font-size:8px;background:      no-repeat center center;padding-left:10px;cursor:pointer}/*上一月箭头(鼠标悬停)*/
+div#cals .cal_yr .cal_nxt_ovr{font-size:8px;background:      no-repeat center center;padding-left:10px;cursor:pointer}/*下一月箭头(鼠标悬停)*/
+
+div#cals tr{}
+div#cals td{text-align:center;font-family:Arial;font-size:12px;padding:3px;line-height:14px;white-space:nowrap}/*日期*/
+div#cals .today{color:#FF0033;padding:2px;border:1px solid #E5E3DB;background:none;font-weight:bold;}/*今日*/
+div#cals .cal_week td{color:#FCCE00;font-weight:bold;font-size:12px;font-family:Tahoma}/*周*/
+div#cals .cal_date{color:#00EE00}/*普通日期*/
+div#cals .cal_sa{color:#008FEE}/*周六标题样式*/
+div#cals .cal_su{color:#FCCE00}/*周日标题样式*/
+div#cals .not_come{color:#FCCE00}/*今日之后的日期*/
+div#cals .cal_before,#cals .cal_after{visibility:hidden}/*除当前月之外的日期*/
+div#cals *.cal_active{color#F70909;text-decoration:none;font-weight:bold;}/*有更新的日期效果*/
+div#cals *.cal_select{padding:2px;border:1px solid #d6d6d6;background-color:#eeeeee;color:#179AC4;text-decoration:underline}/*有更新的日期鼠标移上效果*/
+div#cals .yr_normal{border:none;line-height:14px;}
+div#cals .mth_normal{border:none;line-height:14px;}/*年,月选择器普通状态*/
+
+div#cals .yr_sel,#cals .mth_sel{border:1px solid #ffad42;background:#ffec93;padding:0;line-height:14px;cursor:pointer}/*年,月选择器鼠标移上状态*/
+div#cals .cal_roll{border:1px solid #ff9000;background:#fef3c1;position:absolute;display:none;font-size:12px;font-family:Arial;line-height:18px}/*年月选择列表*/
+div#cals .cal_roll .normal{background:none;}/*年月选择列表选择项目普通状态*/
+div#cals .cal_roll .msover{background:#f5e182;cursor:pointer;}/*年月选择列表选择项目鼠标移上效果*/
+div#cals .cal_pp_cnt{padding:3px;margin-right:20px;font-size:12px;font-family:Arial;white-space:nowrap;border:1px solid #E5E3DB;background:url(http://img.baidu.com/hi/img/date/popbg.gif);}/*有更新的日期的tip提示层*/
+
+/BODY 
+    
+   

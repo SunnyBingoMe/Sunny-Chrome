@@ -1,0 +1,17 @@
+﻿{
+  "name": "Sunny Ch Ex.",
+  "version": "1.0",
+  "description": "Sunny filters and blockers.",
+
+	"permissions": [
+		"webRequest", "webRequestBlocking",
+		"http://hitn.bdimg.com/2402050202/css/item/17a2a751e8766b2442a75b95.css"
+	],
+  "background_page": "background.html",
+
+  "browser_action": {
+    "default_icon": "icon.png",
+    "popup": "popup.html"
+  }
+}
+

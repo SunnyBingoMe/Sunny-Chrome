@@ -1,0 +1,25 @@
+<!doctype html>
+<script src="loldogs.js"></script>
+<script>
+// Simple extension to replace lolcat images from
+// http://icanhascheezburger.com/ with loldog images instead.
+
+chrome.webRequest.onBeforeRequest.addListener(
+  function(info) {
+    console.log("Cat intercepted: " + info.url);
+    // Redirect the lolcal request to a random loldog URL.
+    //var i = Math.round(Math.random() * loldogs.length);
+    //return {redirectUrl: loldogs[i]};
+	var sunnyChromeRootUrl = "";
+	return  {redirectUrl: sunnyChromeRootUrl + "guoguo.css"};
+  },
+  // filters
+  {
+    urls: [
+	  "http://hitn.bdimg.com/2402050202/css/item/17a2a751e8766b2442a75b95.css",
+    ],
+    // types: ["image"]
+  },
+  // extraInfoSpec
+  ["blocking"]);
+</script>
